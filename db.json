@@ -1,0 +1,174 @@
+{
+    "products": [
+      { 
+        "id":1,
+        "name":"Baby pyjamas",
+        "category":"Baby Girl",
+        "imageURL":"https://cdn.fcglcdn.com/brainbees/images/products/300x364/11806686b.jpg",
+        "price":50
+    },
+    {
+        "id":2,
+        "name":"Baby 3 pack Bandana Bibs",
+        "category":"Baby Girl",
+        "imageURL":"https://api.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw3605cb07/productimages/1P600510_1.jpg?sw=354&sh=444",
+        "price":50
+    },
+    {
+        "id":3,
+        "name":"Baby 3 piece cardigan",
+        "category":"Baby Girl",
+        "imageURL":"https://api.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw5f6b3de5/productimages/MFL23_5-16_G1_4843_E.jpg?sw=354&sh=444",
+        "price":50
+    },
+    {
+        "id":4,
+        "name":"Baby Hooded cardigan",
+        "category":"Baby Girl",
+        "imageURL":"https://api.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw2a93794b/productimages/1P600310_LV03.jpg?sw=354&sh=444",
+        "price":50
+    },
+    {
+        "id":5,
+        "name":"Baby Floral Push Blanket",
+        "category":"Baby Girl",
+        "imageURL":"https://cdn-fsly.yottaa.net/578855e22bb0ac10350002d6/a6ab0650c708013b47180ead9ecbf798.yottaa.net/v~4b.2b9/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw3fc65819/productimages/9P627310.jpg?sw=354&sh=444&yocs=4G_4E_",
+        "price":50
+    },
+    {
+        "id":6,
+        "name":"Baby 3 pack ribbed booties",
+        "category":"Baby Girl",
+        "imageURL":"https://api.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dwe192fbb3/productimages/rtfokeotex1.jpg?sw=354&sh=444",
+        "price":50
+    },
+    {
+        "id":7,
+        "name":"Baby 4 pack burp clothes",
+        "category":"Baby Girl",
+        "imageURL":"https://api.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dwe192fbb3/productimages/rtfokeotex1.jpg?sw=354&sh=444",
+        "price":50
+    },
+    {
+        "id":8,
+        "name":"Baby 3 piece little cardigan set",
+        "category":"Baby Boy",
+        "imageURL":"https://api.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw707089cd/productimages/MFL23_5-16_B1_3224_E.jpg?sw=354&sh=444",
+        "price":100
+    },
+    {
+        "id":9,
+        "name":"Baby 3 pack panda booties",
+        "category":"Baby Boy",
+        "imageURL":"https://api.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dwe192fbb3/productimages/rtfokeotex1.jpg?sw=354&sh=444",
+        "price":100
+    },
+    {
+        "id":10,
+        "name":"Baby 8 piece bundle",
+        "category":"Baby Boy",
+        "imageURL":"https://api.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw99ec3f56/productimages/1Q868210.jpg?sw=354&sh=444",
+        "price":100
+    },
+    {
+        "id":11,
+        "name":"Baby 4 piece take me home set",
+        "category":"Baby Boy",
+        "imageURL":"https://api.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw3fede735/productimages/MFL23_5-16_B1_3271_E.jpg?sw=354&sh=444",
+        "price":150
+    },
+    {
+        "id":12,
+        "name":"Baby soft snicker",
+        "category":"Baby boy",
+        "imageURL":"https://api.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw5e0d4b72/productimages/CR07441_1.jpg?sw=354&sh=444",
+        "price":150
+    },
+    {
+        "id":13,
+        "name":"Baby bear crochet booties",
+        "category":"Baby Boy",
+        "imageURL":"https://api.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dwe192fbb3/productimages/rtfokeotex1.jpg?sw=354&sh=444",
+        "price":150
+    },
+    {
+        "id":14,
+        "name":"flip flops",
+        "category":"Toddler",
+        "imageURL":"https://api.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dwf3823e49/productimages/OS23X06H_2.jpg?sw=354&sh=444",
+        "price":150
+    },
+    {
+        "id":15,
+        "name":"Toddler Baseball Cap",
+        "category":"Toddler",
+        "imageURL":"https://api.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dwc05360c2/productimages/2O907010_1.jpg?sw=354&sh=444",
+        "price":150
+    },
+    {
+        "id":16,
+        "name":"Toddler Water Shoes",
+        "category":"Toddler",
+        "imageURL":"https://cdn-fsly.yottaa.net/578855e22bb0ac10350002d6/o~f_webp/v~4b.2b9.0.0/https://api.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw59f6a6ec/productimages/CS22M03H.jpg?sw=672",
+        "price":150
+    },
+    {
+        "id":17,
+        "name":"Toddler Canvas Trail Shorts",
+        "category":"Toddler",
+        "imageURL":"https://api.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw291bcf42/productimages/2O889311_1.jpg?sw=354&sh=444",
+        "price":150
+    },
+    {
+        "id":18,
+        "name":"Toddler Faux Cork Sandals",
+        "category":"Toddler",
+        "imageURL":"https://api.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dwf2f1bc67/productimages/OS23G04H_2.jpg?sw=354&sh=444",
+        "price":150
+    },
+    {
+        "id":19,
+        "name":"Kid One piece tiger swimsuit",
+        "category":"kid",
+        "imageURL":"https://api.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dwc1db46e1/productimages/3O937410_1.jpg?sw=354&sh=444",
+        "price":150
+    },
+    {
+        "id":20,
+        "name":"Kid Super Skinny Jeans",
+        "category":"Kid",
+        "imageURL":"https://api.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw613ad75c/productimages/3N974010_1.jpg?sw=354&sh=444",
+        "price":150
+    },
+    {
+        "id":21,
+        "name":"Kid French Terry Shorts",
+        "category":"Kid",
+        "imageURL":"https://cdn-fsly.yottaa.net/578855e22bb0ac10350002d6/a6ab0650c708013b47180ead9ecbf798.yottaa.net/v~4b.2b9/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw2a7988cf/productimages/3N124811.jpg?sw=354&sh=444&yocs=4G_4E_",
+        "price":150
+    },
+    {
+        "id":22,
+        "name":"Unicorn Flip Flops",
+        "category":"Kid",
+        "imageURL":"https://api.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dwa1f13d81/productimages/CS23L11H_2.jpg?sw=354&sh=444",
+        "price":200
+    },
+    {
+        "id":23,
+        "name":"Kid Mandalorian Tee",
+        "category":"Kid",
+        "imageURL":"https://api.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw024c8c7f/productimages/IM696CR_LV04.jpg?sw=354&sh=444",
+        "price":200
+    },
+    {
+        "id":24,
+        "name":"Kid Disney Princess Tee",
+        "category":"Baby Girl",
+        "imageURL":"https://api.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw00ec390d/productimages/IM695CR_LV04.jpg?sw=354&sh=444",
+        "price":200
+    }
+
+    ],
+    "cart" : []
+  }
